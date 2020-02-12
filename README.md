@@ -1,4 +1,4 @@
-# Scripts to transform particle event data to easier summary statistics, used in my submission to the LHCO2020
+# Scripts to transform particle event data to easier summary statistics, used in my submission to the LHC Olympics 2020
 
 make_pyjet_images.py: First code to run, to find jets from lhc events, make jet images and get jet summaries, and save to disk as .npz files
 
@@ -7,6 +7,8 @@ lhc_data_loader.py: class to help with loading in data from the .npz files and c
 use_lhc_data.py: script to load in data with specified inputs
 
 # useful links:                                                                                                                                                                   
+
+LHC Olympics 2020 - https://indico.cern.ch/event/809820/page/19002-lhcolympics2020
 
 Base script for running pyjet at https://github.com/lhcolympics2020/parsingscripts/blob/master/LHCOlympics2020_pyjetexample.ipynb
 
