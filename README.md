@@ -1,4 +1,4 @@
-# Scripts to load in data, find jets using pyjet, and make jet images and get jet summaries. Then load in jet summaries and image data in desired formats.
+# Scripts to transform particle event data to easier summary statistics, used in my submission to the LHCO2020
 
 make_pyjet_images.py: First code to run, to find jets from lhc events, make jet images and get jet summaries, and save to disk as .npz files
 
